@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@media screen and (min-width:767px) {
+    .container {
+        width: 350px;
+        height: 600px;
+    }
+
+    div.content > p {
+        text-align: center;
+        padding-bottom: 1rem;
+        font-size: 12px;
+        padding-bottom: 2rem;
+    }
+}
