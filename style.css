@@ -36,6 +36,7 @@ div.content > img {
     margin: 0 auto;
     padding: 1.6rem 0;
     transition: 0.5s ease;
+    cursor: pointer;
 }
 
 img:hover {
