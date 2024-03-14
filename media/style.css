@@ -12,4 +12,8 @@
         font-size: 12px;
         padding-bottom: 2rem;
     }
+
+    button {
+        width: 300px 
+    }
 }
