@@ -49,7 +49,7 @@ div.content > h1 {
     padding-bottom: .3rem;
 }
 
-div.content > h2 {
+.container > div.content > h2 {
     color: hsl(75, 94%, 57%);
     text-align: center;
     font-size: 18px;
