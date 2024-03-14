@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-body {
+main {
     display: grid;
     justify-content: center;
     align-items: center;
@@ -48,9 +48,10 @@ div.content > h1 {
     padding-bottom: .3rem;
 }
 
-div.content > h4 {
+div.content > h2 {
     color: hsl(75, 94%, 57%);
     text-align: center;
+    font-size: 18px;
     padding-bottom: 1rem;
 }
 
